@@ -1,4 +1,5 @@
-@import url();
+@import url('https://fonts.goegleapis.com/css2?family=Chakra+petch:wght@400;700')
+
 
 :root{
 --cor-de-fundo: #1E1E1E;
@@ -12,7 +13,7 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'chakra petch', sans-serif;
-    
+}
 
 
 
